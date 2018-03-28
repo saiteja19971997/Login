@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "324232794369",
+    "firebase_url": "https://logindatabase-da41e.firebaseio.com",
+    "project_id": "logindatabase-da41e",
+    "storage_bucket": "logindatabase-da41e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324232794369:android:8e41808d802e4a02",
+        "android_client_info": {
+          "package_name": "com.example.mouna.login1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324232794369-l2kbunqtbioe58kd3rl67j2rvm1sui4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mouna.login1",
+            "certificate_hash": "f310f0bd56b12b3847c1fc555337d5ab8892adc0"
+          }
+        },
+        {
+          "client_id": "324232794369-s06laf7tioi0bnui7ith4ofvtutsug90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLI4dFp3Sl1gnT5CC3jQtWL0ACncfavls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324232794369-s06laf7tioi0bnui7ith4ofvtutsug90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
